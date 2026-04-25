@@ -1,4 +1,4 @@
-#leetcode215
+#leetcode215,geeksforgeeks,code360
 import heapq
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
